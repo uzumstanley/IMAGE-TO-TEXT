@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/BhavyaFattania/Computer-Vision-Projects.git
+git clone https://github.com/Computer-Vision-Projects.git
 
 Create and activate a virtual environment (optional but recommended):
 
